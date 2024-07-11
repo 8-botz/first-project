@@ -51,6 +51,11 @@ body * {
   width: 135px;
   margin: auto;
 }
+
+#profile img.open {
+  width: 200px;
+}
+
 #profile p {
   font-weight: 500;
   line-height: 25px;
